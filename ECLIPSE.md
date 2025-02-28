@@ -1,2 +1,1 @@
-# SERVIDORES
-[HOLA.docx](https://github.com/user-attachments/files/19034218/HOLA.docx)
+# A continuación se da un breve resumen del propósito del proyecto.
