@@ -19,3 +19,5 @@ El lenguaje de programación principal será Java, uno de los más populares par
  4. Utilizar buenas prácticas de desarrollo.
 
 Con este enfoque, buscamos crear un proyecto sólido que brinde una experiencia entretenida y eficiente.
+
+Para ver la arquitectura, instalación y uso del proyecto, junto con su paso a paso, dirijase al [docs](https://github.com/Danielm18687/SERVIDORES/tree/TicTacToe/docs) de esta documentación.
