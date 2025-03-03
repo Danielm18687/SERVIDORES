@@ -21,4 +21,4 @@ Como se puede ver, las reglas del juego son pocas y bastantes sencillas.
 
 3. Es adecuado para jugar con amigos y familiares.
 
-Después del resumen y el propósito de este microproyeto, Dirigase a la [presentación](https://github.com/Danielm18687/SERVIDORES/blob/MICROPRIYECTO-2/PRESENTACI%C3%93N_MICROPROYECTO-2) del proyecto para tener más detalles.
+Después del resumen y el propósito de este microproyeto, Dirigase a la [presentación](https://github.com/Danielm18687/SERVIDORES/blob/TicTacToe/PRESENTACI%C3%93N.md) del proyecto para tener más detalles.
