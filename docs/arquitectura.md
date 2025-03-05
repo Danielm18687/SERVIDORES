@@ -28,9 +28,10 @@ Por lo dicho anteriormente, se siguen ciertos pasos específicos:
 
 ![WhatsApp Image 2025-03-04 at 8 58 41 PM](https://github.com/user-attachments/assets/66ef6915-7cca-4b7e-a172-7ac79461b01f)
 
+
 5. Copiamos los archivos de las imágenes state_null.png, state_o.png y state_x.png; en la carpeta img.
 
-IMAGEEEEENMNNNNNNNNNNNN......
+![WhatsApp Image 2025-03-05 at 2 31 51 PM](https://github.com/user-attachments/assets/a08bb46a-849b-4e8a-ab3d-6dc7f1519c95)
 
 
 6. Copiamos el descriptor de despliegue en el archivo web.xml.
