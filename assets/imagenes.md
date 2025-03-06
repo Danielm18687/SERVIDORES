@@ -11,3 +11,6 @@ JUGADOR O:
 ![state_o](https://github.com/user-attachments/assets/1036d5fd-8926-4a4f-8e0c-e024851a401b)
 
 
+De igual forma, se implementa una imagen en blanco para cuando esté cargando el juego:
+
+![state_null](https://github.com/user-attachments/assets/fb5feb05-4c50-49fe-a604-37699b63a395)
