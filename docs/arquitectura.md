@@ -19,7 +19,7 @@ Por lo dicho anteriormente, se siguen ciertos pasos específicos:
 ![WhatsApp Image 2025-03-04 at 9 25 58 PM](https://github.com/user-attachments/assets/79b526aa-265c-43e6-ae01-cdbd032e59b6)
 
 
-3. En el paquete src/main/java, creamos las clases Cell.java, GameBean.java, Line.java, EntryServlet.java y GameServlet.java; estas se crean dando click derecho sobre el paquete, en seguida New > Class.
+3. En el paquete src/main/java, creamos las clases Cell.java, GameBean.java, Line.java, EntryServlet.java y GameServlet.java; estas se crean dando click derecho sobre el paquete, en seguida New > Class. Estas clases deben pertenecer al package game.
 
 ![WhatsApp Image 2025-03-04 at 10 04 01 PM](https://github.com/user-attachments/assets/168fa79e-4ab3-48bb-8449-5b205ba1ae51)
 
