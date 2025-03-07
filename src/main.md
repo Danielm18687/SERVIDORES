@@ -13,7 +13,11 @@ Aquí se encuentran las clases y servlets que manejan la lógica del juego y la 
 
 2. src/main/webapp - Archivos Web de la aplicación:
 Aquí se encuentran los archivos que forman la interfaz visual del juego, junto con su configuración.
-
+- Imágenes: guardadas en la carpeta https://github.com/Danielm18687/SERVIDORES/tree/TicTacToe/assets
+- META-INF/
+- WEB-INF/
+- index.jsp
+- game.jsp
 
 
 
