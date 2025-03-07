@@ -1,6 +1,6 @@
 # EXPLICACIÓN TÉCNICA SOBRE LA ESTRUCTURA DEL CÓDIGO.
 
-Una buena estructura permite a los desarrolladores navegar fácilmente por el código,, entender la relación entre los diferentes componentes y facilitar la colaboración en equipo.
+Una buena estructura permite a los desarrolladores navegar fácilmente por el código, entender la relación entre los diferentes componentes y facilitar la colaboración en equipo.
 Al definir carpetas específicas para recursos como imágemes, archivos JSP, y clases Java, se reduce la confusión y se agiliza la localización de archivos necesarios durante el desarrollo.
 
 Por lo dicho anteriormente, se siguen ciertos pasos específicos:
