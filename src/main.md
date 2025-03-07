@@ -19,5 +19,7 @@ Aquí se encuentran los archivos que forman la interfaz visual del juego, junto 
 - index.jsp
 - game.jsp
 
+* Para más información acerca de ésta carpeta, dirigirse a:
+
 
 
