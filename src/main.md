@@ -20,6 +20,15 @@ Aquí se encuentran los archivos que forman la interfaz visual del juego, junto 
 - game.jsp
 
 * Para más información acerca de ésta carpeta, dirigirse a:
+https://github.com/Danielm18687/SERVIDORES/blob/TicTacToe/src/webapp
 
 
+# ¿Cómo funciona?
+1. El usuario accede a index.jsp, que lo redirige al servlet (EntryServlet.java).
+2. EntryServlet.java inicializa una nueva partida y redirige a game.jsp.
+3. game.jsp se comunica con GameServlet.java cada vez que el usuario hace una jugada.
+4. GameServlet.java usa GameBean.java para procesar las reglas del juego y actualizar el tablero.
+5. Si hay un ganador o empate, la interfaz lo muestra y el usuario puede reiniciar la partida.
+
+IMAGEEEEEEN DEL MENU DEL JUEGOOOOOOOOOOOOO...............
 
