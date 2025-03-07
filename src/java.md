@@ -4,6 +4,9 @@ Las clases Java son el corazón de la aplicación que permite el funcionamiento,
 Ayuda a garantizar una experincia agradable para el usuario.
 
 Hacemos uso de PACKAGE GAME, que es un contenedor en Java que agrupa todas las clases relacionadas con la lógica y funcionalidad del juego TicTacToe.
+
+![WhatsApp Image 2025-03-06 at 9 02 56 PM](https://github.com/user-attachments/assets/c987ce0c-7a07-43ea-86f7-3825381301a5)
+
   
 1. Clase cell.java:
    Define el estado de cada celda del tablero, la cual puede ser "X" ó "O" o vacía (null).
