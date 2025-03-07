@@ -36,6 +36,8 @@ Por lo dicho anteriormente, se siguen ciertos pasos específicos:
 
 6. Copiamos el descriptor de despliegue en el archivo web.xml.
 
-IMAGEEEEENMNNNNNNNNNNNN......
+![WhatsApp Image 2025-03-06 at 6 33 09 PM](https://github.com/user-attachments/assets/bf4374f6-78f0-49c3-9caa-36af533182b8)
+
+
 
 
