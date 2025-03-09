@@ -5,7 +5,6 @@ En este documento vamos a describir los cambios realizados en el código para mo
 
 Modificaciones Realizadas
 
-1. Ajuste del Tamaño del Tablero
 
 -Se modificó la dimensión del tablero de 3x3 a 4x4.
 
