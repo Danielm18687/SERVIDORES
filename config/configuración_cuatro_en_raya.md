@@ -1,6 +1,6 @@
-# CUATRO EN RAYA
+# CUATRO EN RAYA.
 
-# Descripción
+# Descripción.
 En este documento vamos a describir los cambios realizados en el código para modificar la configuración del juego 3 en raya y adaptarlo a 4 en raya.
 
 Modificaciones Realizadas:
