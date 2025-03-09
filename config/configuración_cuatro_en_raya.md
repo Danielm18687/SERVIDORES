@@ -11,3 +11,7 @@ Modificaciones Realizadas
 -Se agregaron dos variables privadas "ROWS" y "COLS", cada una se inicializo en 4 para ajustar el tamaño del tablero
 
 -Se hizo un cambio en donde correspondian las anteriores filas y columnas 
+
+-Se ajustó la lógica para detectar una línea de 4 fichas en lugar de 3.
+
+
