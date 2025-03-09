@@ -11,4 +11,4 @@ Modificaciones Realizadas
 
 -Se agregaron dos variables privadas "ROWS" y "COLS", cada una se inicializo en 4 para ajustar el tamaño del tablero
 
--Se hizo un cambio a donde correspondian las anteriores filas y columnas 
+-Se hizo un cambio en donde correspondian las anteriores filas y columnas 
