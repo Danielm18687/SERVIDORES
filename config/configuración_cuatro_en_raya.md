@@ -7,7 +7,7 @@ En este documento vamos a describir los cambios realizados en el código para mo
 
 -Se modificó la dimensión del tablero de 3x3 a 4x4.
 
--Se agregaron dos variables privadas "ROWS" y "COLS", estas nos permiten adaptar el código para tableros de cualquier tamaño, en este caso se inicializaron en 4 para ajustar el tamaño del tablero.
+-Se agregaron dos variables privadas "ROWS" y "COLS", estas nos permiten adaptar el código para tableros de cualquier tamaño, en este caso se inicializaron en 4 para ajustar el tamaño del tablero a 4x4.
 
 -Se hizo un cambio en donde correspondian las anteriores filas y columnas. 
 
