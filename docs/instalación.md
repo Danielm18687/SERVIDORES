@@ -15,3 +15,11 @@ Antes de instalar el juego, hay que asegurarse de cumplir con los siguientes req
 - Seleccionamos widfly como el servidor objetivo.
 - Aseguramos de marcar Generate web.xml deployment descriptor; para que Eclipse cree automáticamente el archivo web.xml, el ual permite definir los Servlets y su acceso en la aplicación.
 - El código Java se guardará en src/main/java. Para más detalle: https://github.com/Danielm18687/SERVIDORES/blob/TicTacToe/src/java.md
+
+# 3. Desarrollo y Codificación del juego:
+- Implementa la lógica del juego en Java dentro de src/main/java.
+- webapp/index.html es la página principal del juego.
+- webapp/css/estilos/estilos.css son los estilos visuales del tablero.
+- webapp/js/script.js es la funcionalidad del juego e interacción.
+
+Revisión con más profundidad acerca de la arquitectura del juego: 
