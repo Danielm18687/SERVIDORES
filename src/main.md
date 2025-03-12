@@ -30,5 +30,6 @@ https://github.com/Danielm18687/SERVIDORES/blob/TicTacToe/src/webapp
 4. GameServlet.java usa GameBean.java para procesar las reglas del juego y actualizar el tablero.
 5. Si hay un ganador o empate, la interfaz lo muestra y el usuario puede reiniciar la partida.
 
-IMAGEEEEEEN DEL MENU DEL JUEGOOOOOOOOOOOOO...............
+![WhatsApp Image 2025-03-11 at 9 18 42 PM](https://github.com/user-attachments/assets/410d073e-13bc-4175-a8a6-91e8a58eceb9)
+
 
