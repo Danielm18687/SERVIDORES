@@ -14,4 +14,4 @@ Antes de instalar el juego, hay que asegurarse de cumplir con los siguientes req
 - Creamos un nuevo proyecto web dinámico (Tic_Tac_Toe).
 - Seleccionamos widfly como el servidor objetivo.
 - Aseguramos de marcar Generate web.xml deployment descriptor; para que Eclipse cree automáticamente el archivo web.xml, el ual permite definir los Servlets y su acceso en la aplicación.
-- El código Java se guardará en src/main/java. 
+- El código Java se guardará en src/main/java. Para más detalle: https://github.com/Danielm18687/SERVIDORES/blob/TicTacToe/src/java.md
