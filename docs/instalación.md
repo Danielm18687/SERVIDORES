@@ -5,8 +5,8 @@ Este documeneto proporciona las instrucciones necesarias para instalar y ejecuta
 # 1. Requisitos del sistema:
 Antes de instalar el juego, hay que asegurarse de cumplir con los siguientes requisitos:
 - Java Development Kit (JDK) 17 o superior: Necesario para compilar y ejecutar el juego.
-- Apache Tomcat 9+: para desplegar la aplicación en el servior widfly.
-- Widfly: servidor de aplicaciones Java.
+- Apache Tomcat 9+: para desplegar la aplicación en el servior wildfly.
+- Wildfly: servidor de aplicaciones Java.
 -  Navegador web: para poder jugar el juego; ejemplo: Google Chrome, Firefox o Edge.
 
 # 2. Configuración del proyecto en Eclipse:
@@ -22,4 +22,7 @@ Antes de instalar el juego, hay que asegurarse de cumplir con los siguientes req
 - webapp/css/estilos/estilos.css son los estilos visuales del tablero.
 - webapp/js/script.js es la funcionalidad del juego e interacción.
 
-Revisión con más profundidad acerca de la arquitectura del juego: 
+Revisión con más profundidad acerca de la arquitectura del juego: https://github.com/Danielm18687/SERVIDORES/blob/TicTacToe/docs/arquitectura.md
+
+# 4. Configurar Wildfly en Eclipse:
+
