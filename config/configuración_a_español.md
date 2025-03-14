@@ -16,11 +16,7 @@ Se han traducido los mensajes de interfaz para los jugadores
 
 # Aplicación de los Cambios
 
-Se ha modificado el código en los archivos correspondientes para reflejar estos cambios.
-
--Clonar el repositorio:
-
-"git clone https://github.com/usuario/repositorio.git"
+De igual manera se modifico el código en los archivos correspondientes para reflejar estos cambios.
 
 Se hizo la modificación los archivos de configuración y lógica del juego con los nombres de variables en español.
 
