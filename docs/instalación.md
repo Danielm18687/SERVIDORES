@@ -36,11 +36,11 @@ Revisión con más profundidad acerca de la arquitectura del juego: https://gith
 
 
 # 5. Ejecutar el juego en el navegador:
-- Iniciar Apache Tomcat, accedemos a http://localhost:8080/manager/html.
+- Iniciar Apache Tomcat, accedemos a http://ipDelServidor:8080/manager/html.
 - Desde Eclipse damos click derecho sobre Tic_Tac_Toe.
 - Seleccionamos Run As, Run on Server y elegimos Tomcat.
 - Eclipse compilará y desplegará la aplicación automáticamente.
-- vamos a http://localhost:8080/Tic_Tac_Toe/ en Chrome.
+- vamos a http://ipDelServidor:8080/Tic_Tac_Toe/ en Chrome.
 - Ya se puede jugar.
 
 ![WhatsApp Image 2025-03-11 at 9 18 42 PM](https://github.com/user-attachments/assets/09dff9da-5618-42d3-920d-134c01ad5074)
