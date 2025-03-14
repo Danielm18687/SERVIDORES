@@ -2,12 +2,13 @@
 
 # INTRODUCCIÓN
 Tic-Tac-Toe es un juego de estrategia para dos jugadores donde el objetivo es alinear tres fichas en una fila, columna o diagonal en un tablero de 3x3. Este juego puede jugarse en modo local contra otro jugador o contra la CPU, dependiendo de la configuración.
-![Imagen de WhatsApp 2025-03-11 a las 22 36 53_23b23117](https://github.com/user-attachments/assets/251914b4-61b4-4a6d-bddd-d25e43e3edf2)
+![Imagen de WhatsApp 2025-03-13 a las 21 03 59_771c13f9](https://github.com/user-attachments/assets/29613666-4bdb-4af7-89be-b2a363d79607)
+
 
 ## OBJETIVO DEL JUEGO
 Tic-Tac-Toe El objetivo es conseguir tres marcas (X o O) en línea antes que tu oponente, ya sea en horizontal, vertical o diagonal.
 
-![Imagen de WhatsApp 2025-03-11 a las 22 36 54_5dfd0525](https://github.com/user-attachments/assets/47752e14-8077-4afd-8339-a5f07dfb5a9b)
+![Imagen de WhatsApp 2025-03-13 a las 21 04 00_4b8c0563](https://github.com/user-attachments/assets/b28f0520-833d-49b2-9482-c75f3cf9b526)
 
 
 
