@@ -11,7 +11,7 @@ Tic-Tac-Toe El objetivo es conseguir tres marcas (X o O) en línea antes que tu 
 3. El juego verifica automáticamente si hay un ganador.
 4. Si alguien gana o hay empate, se muestra un mensaje con la opción de reiniciar.
 
-# 2. MODOS DE JUEGOS
+#  MODOS DE JUEGO
 
 El juego ofrece los siguientes modos:
 
