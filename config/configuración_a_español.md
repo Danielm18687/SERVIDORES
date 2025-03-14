@@ -13,6 +13,7 @@ Traducción de Variables
 # Traducción de Mensajes del Juego
 
 Se han traducido los mensajes de interfaz para los jugadores
+
 ![Imagen de WhatsApp 2025-03-13 a las 21 58 19_872b0410](https://github.com/user-attachments/assets/2c9dc661-e7f6-42a7-bc9d-c81844f286c4)
 
 
