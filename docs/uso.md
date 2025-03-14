@@ -15,11 +15,11 @@ Tic-Tac-Toe El objetivo es conseguir tres marcas (X o O) en línea antes que tu 
 
 El juego ofrece los siguientes modos:
 
-#  Modo Jugador vs Jugador (PvP)
+    #  Modo Jugador vs Jugador (PvP)
 - Dos jugadores alternan turnos para colocar su ficha (X o O).
 - El primer jugador en lograr tres en línea gana la partida.
 - Si el tablero se llena sin un ganador, la partida termina en empate.
-# 2.2 Modo Jugador vs CPU*
+    #  Modo Jugador vs CPU*
 - El usuario juega contra la CPU de la computadora.
 - La CPU toma decisiones según un algoritmo de juego.
 - 
