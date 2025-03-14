@@ -22,7 +22,7 @@ El juego ofrece los siguientes modos:
     #  Modo Jugador vs CPU*
 - El usuario juega contra la CPU de la computadora.
 - La CPU toma decisiones según un algoritmo de juego.
-- 
+
 
 
 
