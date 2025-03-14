@@ -1,7 +1,7 @@
 # Guía para Jugar al Tic-Tac-Toe 
 
 # INTRODUCCIÓN
-Tres en Raya es un juego de estrategia para dos jugadores donde el objetivo es alinear tres fichas en una fila, columna o diagonal en un tablero de 3x3. Este juego puede jugarse en modo local contra otro jugador o contra la CPU, dependiendo de la configuración.
+Tic-Tac-Toe es un juego de estrategia para dos jugadores donde el objetivo es alinear tres fichas en una fila, columna o diagonal en un tablero de 3x3. Este juego puede jugarse en modo local contra otro jugador o contra la CPU, dependiendo de la configuración.
 ## OBJETIVO DEL JUEGO
 Tic-Tac-Toe El objetivo es conseguir tres marcas (X o O) en línea antes que tu oponente, ya sea en horizontal, vertical o diagonal.
 
