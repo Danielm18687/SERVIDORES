@@ -1,2 +1,2 @@
 # SERVIDORES
-https://github.com/Danielm18687/SERVIDORES/edit/TicTacToe/README.md
+https://github.com/Danielm18687/SERVIDORES/blob/TicTacToe/README.md
