@@ -25,7 +25,7 @@ Estas imágenes las insertamos dentro de webapp.
 
 ![WhatsApp Image 2025-03-04 at 9 25 58 PM (1)](https://github.com/user-attachments/assets/08a652f1-3630-4ce2-bddd-70a40255b8b8)
 
-- Se insertan las imágenes en HTML en los archivos .jsp o . html.
+- Se insertan las imágenes en los archivos .jsp.
 - Usamos imágenes en CSS para fondos o estilos.
 - Cargamos las imágenes dinámicamente en JavaScript.
 
